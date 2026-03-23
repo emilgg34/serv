@@ -1,0 +1,103 @@
+[23Mar2026 00:00:02.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> zzzzzzzzzzzzzzzzzzzzzz
+[23Mar2026 00:00:22.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[23Mar2026 00:00:22.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[23Mar2026 00:00:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> w
+[23Mar2026 00:00:50.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[23Mar2026 00:00:52.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/10.166.13.26:58691] logged in with entity id 60218 at (-1101.6281613240665, 71.0, 483.21656052774927)
+[23Mar2026 00:00:52.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[23Mar2026 00:00:52.257] [Server thread/INFO] [Jade/]: Syncing config to Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f)
+[23Mar2026 00:04:16.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Cobweb Entanglement]
+[23Mar2026 00:06:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Hard Work and Dedication]
+[23Mar2026 00:08:46.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Is it a Fruit or is it a Nut?]
+[23Mar2026 00:08:46.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Mother Nature's Bounty]
+[23Mar2026 00:12:17.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [The First of Many]
+[23Mar2026 00:12:18.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/10.166.13.2:64256] logged in with entity id 71178 at (-1514.2612558668563, 65.0, 506.5760500048428)
+[23Mar2026 00:12:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[23Mar2026 00:12:18.659] [Server thread/INFO] [Jade/]: Syncing config to xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18)
+[23Mar2026 00:12:37.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[23Mar2026 00:12:58.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5379ms or 107 ticks behind
+[23Mar2026 00:13:00.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Sweet Dreams]
+[23Mar2026 00:13:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [Local Brewery]
+[23Mar2026 00:13:59.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Monster Hunter]
+[23Mar2026 00:15:10.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> DUERMAN MMG
+[23Mar2026 00:15:17.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> DUErman
+[23Mar2026 00:15:22.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> DUERMAN CO:O
+[23Mar2026 00:17:00.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has reached the goal [Zombie Doctor]
+[23Mar2026 00:19:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> xaero-waypoint:Shared Location:S:-692:93:1463:12:false:0:Internal-overworld-waypoints
+[23Mar2026 00:19:32.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [A New Friend!]
+[23Mar2026 00:21:21.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [Knowledge of Death]
+[23Mar2026 00:21:21.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [Funeral Theft]
+[23Mar2026 00:21:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [Your First Receptacle]
+[23Mar2026 00:28:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megatuber06 has made the advancement [Take Good Care!]
+[23Mar2026 00:28:26.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [Take Good Care!]
+[23Mar2026 00:29:55.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xClas06) moved wrongly! 0.9438207125974714
+[23Mar2026 00:31:04.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Take Good Care!]
+[23Mar2026 00:35:33.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61515, l='ServerLevel[world]', x=-1396.70, y=56.94, z=664.62] died, message: 'Unemployed hit the ground too hard'
+[23Mar2026 00:37:48.159] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c0fe674b-af5d-4eb3-b46b-4a789401d404
+[23Mar2026 00:37:48.159] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c0fe674b-af5d-4eb3-b46b-4a789401d404
+[23Mar2026 00:39:47.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Full House]
+[23Mar2026 00:41:22.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[23Mar2026 00:41:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[23Mar2026 00:41:34.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/10.166.13.2:64517] logged in with entity id 89063 at (-1285.2382708598936, 64.0, 608.1777071690021)
+[23Mar2026 00:41:34.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[23Mar2026 00:41:34.579] [Server thread/INFO] [Jade/]: Syncing config to xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18)
+[23Mar2026 00:41:42.961] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 34689e3e-00c0-43f3-8b8f-8de49e3303c4
+[23Mar2026 00:41:42.961] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 34689e3e-00c0-43f3-8b8f-8de49e3303c4
+[23Mar2026 00:41:43.910] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9a80f2d8-6fb4-4183-ae9d-d96a6b755dfe
+[23Mar2026 00:41:43.911] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9a80f2d8-6fb4-4183-ae9d-d96a6b755dfe
+[23Mar2026 00:42:06.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj was slain by xClas06
+[23Mar2026 00:42:06.740] [Server thread/INFO] [tombstone/]: The player emilghj has successfully been saved
+[23Mar2026 00:42:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Suit Up]
+[23Mar2026 00:42:11.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Isn't It Iron Pick]
+[23Mar2026 00:42:11.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Diamonds!]
+[23Mar2026 00:42:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Very Berry]
+[23Mar2026 00:42:11.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Knowledge of Death]
+[23Mar2026 00:42:11.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Funeral Theft]
+[23Mar2026 00:42:55.618] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6fe597ce-44cb-4326-b603-29ccfd7abbec
+[23Mar2026 00:42:55.618] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6fe597ce-44cb-4326-b603-29ccfd7abbec
+[23Mar2026 00:42:55.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has reached the goal [Strong or Careful]
+[23Mar2026 00:42:55.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 was slain by emilghj
+[23Mar2026 00:42:55.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Your First Grave]
+[23Mar2026 00:42:55.623] [Server thread/INFO] [tombstone/]: The player Anubis_11 has successfully been saved
+[23Mar2026 00:45:23.219] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: baa57f72-3d1c-4d69-90ae-83ed2ff6ee52
+[23Mar2026 00:45:23.220] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: baa57f72-3d1c-4d69-90ae-83ed2ff6ee52
+[23Mar2026 00:47:16.171] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 88b3f8b2-2b53-42ff-9b49-5686d8b018e1
+[23Mar2026 00:47:31.161] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 88b3f8b2-2b53-42ff-9b49-5686d8b018e1
+[23Mar2026 00:47:31.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15014ms or 300 ticks behind
+[23Mar2026 00:47:31.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved too quickly! 10.122723570145126,0.0,-0.918507566340736
+[23Mar2026 00:48:39.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [There's a Leek in the Boat!]
+[23Mar2026 00:49:44.320] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a6b973cc-6fc3-4db2-aa0a-32012dfa27bc
+[23Mar2026 00:49:44.321] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a6b973cc-6fc3-4db2-aa0a-32012dfa27bc
+[23Mar2026 00:49:57.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megatuber06 has made the advancement [The Root of Basic Healing]
+[23Mar2026 00:51:01.265] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4fa54110-eb29-46cb-acf7-3d47cfa9aac6
+[23Mar2026 00:51:01.266] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4fa54110-eb29-46cb-acf7-3d47cfa9aac6
+[23Mar2026 00:52:38.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[23Mar2026 00:52:38.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[23Mar2026 00:52:38.820] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: adb945bd-8657-4a2e-b869-069dc5f2b1a4
+[23Mar2026 00:52:38.820] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: adb945bd-8657-4a2e-b869-069dc5f2b1a4
+[23Mar2026 00:53:53.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/10.166.13.2:64559] logged in with entity id 93890 at (-1505.078357164479, 69.0, 421.9328694610351)
+[23Mar2026 00:53:53.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[23Mar2026 00:53:53.159] [Server thread/INFO] [Jade/]: Syncing config to xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18)
+[23Mar2026 00:54:19.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[23Mar2026 00:54:19.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[23Mar2026 00:54:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Minty Fresh]
+[23Mar2026 00:54:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Doing my Part]
+[23Mar2026 01:08:10.759] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 669f6b39-8a7c-47b7-b876-f30902c5fe1a
+[23Mar2026 01:08:10.760] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 669f6b39-8a7c-47b7-b876-f30902c5fe1a
+[23Mar2026 01:09:42.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/10.166.13.2:64685] logged in with entity id 98395 at (-1503.2861706303588, 64.0, 459.49611970988667)
+[23Mar2026 01:09:42.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[23Mar2026 01:09:42.448] [Server thread/INFO] [Jade/]: Syncing config to xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18)
+[23Mar2026 01:11:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Cobweb Entanglement]
+[23Mar2026 01:13:38.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [Ashes 'n Bones]
+[23Mar2026 01:15:17.065] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f77a5b7c-5fed-4682-8594-22a5c1b0ff56
+[23Mar2026 01:15:17.066] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f77a5b7c-5fed-4682-8594-22a5c1b0ff56
+[23Mar2026 01:16:35.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has reached the goal [An Unexpected Result]
+[23Mar2026 01:17:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [A Strange Grave Dust]
+[23Mar2026 01:24:26.650] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2fc91978-9a0a-4ec6-afde-6bc91f2d10d0
+[23Mar2026 01:24:26.650] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2fc91978-9a0a-4ec6-afde-6bc91f2d10d0
+[23Mar2026 01:25:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Chest Slayer]
+[23Mar2026 01:26:43.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has reached the goal [Bone Crusher]
+[23Mar2026 01:27:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [A Strange Grave Dust]
+[23Mar2026 01:30:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Acquire Hardware]
+[23Mar2026 01:31:00.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [A Bone to Pick]
+[23Mar2026 01:31:00.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Professional Dungeoneer]

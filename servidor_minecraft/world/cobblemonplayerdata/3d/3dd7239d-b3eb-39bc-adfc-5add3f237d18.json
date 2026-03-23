@@ -1,0 +1,45 @@
+{
+  "uuid": "3dd7239d-b3eb-39bc-adfc-5add3f237d18",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "6796190b-db93-4e24-a321-b71c91de9b59",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 8,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 25,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 24,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 2,
+      "fire": 1,
+      "dark": 1,
+      "fairy": 1,
+      "water": 1,
+      "ice": 1,
+      "electric": 1,
+      "flying": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:diglett": 3,
+      "cobblemon:swellow": 2,
+      "cobblemon:pidgey": 2,
+      "cobblemon:taillow": 2,
+      "cobblemon:sentret": 1,
+      "cobblemon:nickit": 1,
+      "cobblemon:meowth": 2,
+      "cobblemon:growlithe": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:joltik": 1
+    },
+    "aspectsCollected": {}
+  }
+}
